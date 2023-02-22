@@ -1,1 +1,1 @@
-import scikit-learn
+import sklearn
